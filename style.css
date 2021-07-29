@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(29, 81, 110);  
+}
+
+.img-fluid {
+    max-width: 100%; 
+    height: auto;
+
+} 
+.jumbotron {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bolder;
+position: relative;
+background-color: lightblue;
+background-image: image();
+}
+
+.card {
+background-color: lightblue;   
+}
+
+.contact-me {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
